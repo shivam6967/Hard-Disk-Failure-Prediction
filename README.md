@@ -1,5 +1,7 @@
 # Walmart Global Tech India 
-Prediction of Hard Drive Faliure using S.M.A.R.T Attributes 
+Prediction of Hard Drive Faliure by using S.M.A.R.T Attributes 
+
+<h3>Developers - Shivam Mathapati ,Shravan Jare & Ranjeet Rewatkar </h3>
 
 # Problem Understanding
 <ul>
